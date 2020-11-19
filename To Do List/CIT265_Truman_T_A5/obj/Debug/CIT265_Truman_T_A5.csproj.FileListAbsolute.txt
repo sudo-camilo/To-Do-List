@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Programming\CIT265_Truman_T_A5\CIT265_Truman_T_A5\bin\Debug\CIT265_Truman_T_A5.exe.config
+C:\Users\User\Desktop\Programming\CIT265_Truman_T_A5\CIT265_Truman_T_A5\bin\Debug\CIT265_Truman_T_A5.exe
+C:\Users\User\Desktop\Programming\CIT265_Truman_T_A5\CIT265_Truman_T_A5\bin\Debug\CIT265_Truman_T_A5.pdb
+C:\Users\User\Desktop\Programming\CIT265_Truman_T_A5\CIT265_Truman_T_A5\obj\Debug\CIT265_Truman_T_A5.Form1.resources
+C:\Users\User\Desktop\Programming\CIT265_Truman_T_A5\CIT265_Truman_T_A5\obj\Debug\CIT265_Truman_T_A5.Properties.Resources.resources
+C:\Users\User\Desktop\Programming\CIT265_Truman_T_A5\CIT265_Truman_T_A5\obj\Debug\CIT265_Truman_T_A5.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Programming\CIT265_Truman_T_A5\CIT265_Truman_T_A5\obj\Debug\CIT265_Truman_T_A5.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Programming\CIT265_Truman_T_A5\CIT265_Truman_T_A5\obj\Debug\CIT265_Truman_T_A5.exe
+C:\Users\User\Desktop\Programming\CIT265_Truman_T_A5\CIT265_Truman_T_A5\obj\Debug\CIT265_Truman_T_A5.pdb
+C:\Users\User\Desktop\Programming\CIT265_Truman_T_A5\CIT265_Truman_T_A5\obj\Debug\CIT265_Truman_T_A5.csprojAssemblyReference.cache
